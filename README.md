@@ -1,3 +1,3 @@
-# oneko.js
+# oneko.ts
 
-A hacky script I wrote to put a cat on my site.
+This is an oneko script, forked from @adryd325's and moved to typescript. Enjoy! 
